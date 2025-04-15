@@ -1,44 +1,57 @@
-# 🌐 Homepage Pessoal
+# 👨‍💻 Homepage Pessoal – Tiago dos Santos Silva
 
-Este projeto é uma **página pessoal** simples, desenvolvida com **HTML** e **CSS**, e hospedada no **GitHub Pages**. Ideal para divulgar seu portfólio, currículo ou informações de contato online.
+Bem-vindo à minha homepage pessoal! Este é um projeto simples e direto, criado com **HTML** e **CSS**, ideal para apresentar meu perfil, destacar projetos e compartilhar formas de contato..
 
-## ✅ Funcionalidades
 
-- Página responsiva e moderna
-- Seções de apresentação pessoal, projetos e contato
-- Fácil de editar e personalizar
+---
+
+## ✨ Recursos do Projeto
+
+- ✅ Página totalmente responsiva
+- ✅ Design leve e moderno
+- ✅ Seção de apresentação pessoal
+- ✅ Espaço para incluir portfólio e contatos
+- ✅ Fácil de personalizar
+
+---
 
 ## 🛠 Tecnologias Utilizadas
 
 - HTML5
 - CSS3
-- GitHub Pages
+- GitHub Pages (para hospedagem)
 
-## 🚀 Como Visualizar
+---
 
-Acesse o site publicado pelo GitHub Pages:
-
-🔗 [https://tiagosaannttos.github.io/homepage](https://tiagosaannttos.github.io/homepage)
-
-## 📁 Estrutura do Projeto
-homepage/ ├── index.html # Página principal ├── style.css # Estilo visual └── assets/ # Imagens e outros recursos (se houver)
+## 📂 Estrutura do Projeto
+📁 homepage/ ├── index.html → Página principal ├── style.css → Estilo personalizado └── assets/ → Pasta para imagens e recursos
 
 
 
-## ✏️ Como Usar ou Editar
+---
 
-1. Faça um fork ou clone deste repositório
-2. Edite o arquivo `index.html` com suas informações pessoais
-3. Personalize os estilos no `style.css`
-4. Suba as alterações para o seu repositório
-5. Ative o GitHub Pages nas configurações para publicar seu site
+## 🚀 Como Usar/Editar
 
-## 👨‍💻 Autor
+1. Faça um **fork** ou **clone** deste repositório.
+2. Edite o conteúdo em `index.html` com suas informações pessoais.
+3. Personalize o visual no arquivo `style.css`.
+4. Suba as alterações para o seu repositório.
+5. Vá em `Configurações > Pages` no GitHub e publique o site pelo GitHub Pages.
 
-- **Tiago dos Santos Silva**
-- GitHub: [@tiagosaannttos](https://github.com/tiagosaannttos)
+---
+
+## 👤 Sobre Mim
+
+**Tiago dos Santos Silva**  
+Estudante de Análise e Desenvolvimento de Sistemas  
+Apaixonado por tecnologia, programação e soluções criativas.
+
+📬 Contato: tiagosaannttos@gmail.com  
+🔗 GitHub: [@tiagosaannttos](https://github.com/tiagosaannttos)
+
+---
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a **MIT License**. Veja o arquivo `LICENSE` para mais detalhes.
-
+Este projeto está sob a **Licença MIT**.  
+Sinta-se livre para usar, modificar e compartilhar. 😉
